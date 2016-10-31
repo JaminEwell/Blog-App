@@ -4,7 +4,7 @@ This is a Blog App built in Rails
 
 Used Devise for Authentication
 
-User Bootstrap for Styling
+Used Bootstrap for Styling
 
 Used Javascript and JQuery
 
