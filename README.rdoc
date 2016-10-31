@@ -1,28 +1,26 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Blog App built in Rails
 
-Things you may want to cover:
+Used Devise for Authentication
 
-* Ruby version
+User Bootstrap for Styling
 
-* System dependencies
+Used Javascript and JQuery
 
-* Configuration
+Used Social Media Share Gem
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployed on Heroku
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+https://cloud.githubusercontent.com/assets/14047551/19847206/7a17335c-9f02-11e6-8756-c7e5c5f802c6.png
+
+https://cloud.githubusercontent.com/assets/14047551/19847207/7a1bfc0c-9f02-11e6-8f97-a184a0fa6694.png
+
+https://cloud.githubusercontent.com/assets/14047551/19847208/7a1d8fea-9f02-11e6-837d-81beb52c8bc2.png
+
+https://cloud.githubusercontent.com/assets/14047551/19847209/7a1dc460-9f02-11e6-8b83-3b0659b3aae0.png
+
+
+
