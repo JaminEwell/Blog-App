@@ -6,7 +6,7 @@ Used Devise for Authentication
 
 Used Bootstrap for Styling
 
-Used Javascript and JQuery
+Used Ruby, Javascript, and JQuery
 
 Used Social Media Share Gem
 
